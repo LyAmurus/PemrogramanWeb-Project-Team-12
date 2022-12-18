@@ -56,7 +56,7 @@ if (isset($_POST['submit'])) {
                         <button type="submit" name="submit">Submit</button>
                     </div>
                     <div class="button-input">
-                        <a href="Dashboard.html">Back</a>
+                        <a href="Dashboard.php">Back</a>
                     </div>
                 </div>
             </form>
