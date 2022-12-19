@@ -33,14 +33,14 @@ CREATE TABLE `user` (
   `judul` varchar(255) NOT NULL,
   `genre` varchar(255) NOT NULL,
   `tanggal` varchar(255) NOT NULL,
-  `status` varchar(255) NOT NULL
+  `keterangan` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
 -- Dumping data for table `user`
 --
 
-INSERT INTO `user` (`id`, `nama`, `judul`, `genre`, `tanggal`, `status`) VALUES
+INSERT INTO `user` (`id`, `nama`, `judul`, `genre`, `tanggal`, `keterangan`) VALUES
 (1, 'maman', 'ini judul buku', 'ini genre buku', 'ini tanggal pinjem', 'ini status'),
 (2, 'mamat', 'ini judul buku 2', 'ini genre buku 2', 'ini tanggal pinjem 2', 'ini status 2');
 
