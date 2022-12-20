@@ -43,7 +43,7 @@ $rincian = query("SELECT * FROM user");
           <img src="https://i.ibb.co/1r9Lzfh/IMG-20221006-005221.jpg" alt="">
         </div>
         <div class="project-info">
-          <p class="project-category">3337210036</p>
+          <p class="project-category">3337210038</p>
           <strong class="project-title">
             <span>Haikal Azka Raffasya</span>
           </strong>
